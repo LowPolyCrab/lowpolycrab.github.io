@@ -1,35 +1,35 @@
 // Project data
 const projects = [
   {
-    name: "Project 1 Title",
+    name: "UFG(Untitled Fish Game)",
     image: "images/project1.jpg",
     engine: "Unity",
-    role: "Gameplay Programmer",
-    description: "Describe your mechanics, systems, and contributions here.",
+    role: "Gameplay, AI, Environment tools",
+    description: "",
     link: "project1.html"
   },
   {
-    name: "Project 2 Title",
+    name: "Plastic Deformation",
     image: "images/project2.jpg",
     engine: "Unreal Engine",
-    role: "AI Programmer",
-    description: "Talk about AI systems, behavior trees, etc.",
+    role: "Programmer",
+    description: "",
     link: "project2.html"
   },
   {
-    name: "Project 3 Title",
+    name: "Voxel Terrain Generation and Terraforming",
     image: "images/project3.jpg",
-    engine: "Custom C++ Engine",
-    role: "Engine Developer",
-    description: "Explain rendering, physics, or tools.",
+    engine: "Unity",
+    role: "Programmer",
+    description: "",
     link: "project3.html"
   },
   {
-    name: "Project 4 Title",
+    name: "Dynamic Climbing Controller",
     image: "images/project4.jpg",
-    engine: "Custom C++ Engine",
-    role: "Engine Developer",
-    description: "Explain rendering, physics, or tools.",
+    engine: "Unity",
+    role: "Programmer",
+    description: "",
     link: "project4.html"
   }
 ];
